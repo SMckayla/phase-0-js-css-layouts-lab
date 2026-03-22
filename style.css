@@ -28,3 +28,12 @@
     height: auto;
     border-radius: 8px;
 }
+/* Headings */
+.cat-breed h3 {
+    margin: 0.5em 0;
+}
+
+/* Paragraphs */
+.cat-breed p {
+    margin: 0.5em 0 1em;
+}
