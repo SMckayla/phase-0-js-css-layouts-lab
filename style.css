@@ -17,3 +17,14 @@
     text-align: center;
     transition: transform 0.3s;
 }
+* Hover effect */
+.cat-breed:hover {
+    transform: scale(1.05);
+}
+
+/* Image styling */
+.cat-breed img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
