@@ -37,3 +37,15 @@
 .cat-breed p {
     margin: 0.5em 0 1em;
 }
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .cat-container {
+        flex-direction: column;
+    }
+
+    .cat-breed {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
